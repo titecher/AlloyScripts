@@ -1,4 +1,3 @@
-
 abstract sig Person { 
 	kill : this -> Person}
 one sig  A,B extends Person {}
